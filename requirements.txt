@@ -1,6 +1,5 @@
 tensorflow==2.20.0
 pandas 
-numpy<2.0
 scikit-learn
 tensorboard
 matplotlib
